@@ -1,0 +1,46 @@
+CACHE MANIFEST
+
+#upgrade change the version.
+#2017-03-12 Version-1.1
+
+CACHE:
+index.html
+contact.html
+about.html
+readmore.html
+portfolio.html
+style.css
+css/nivo-slider.css
+css/style.css
+js/jquery.js
+js/jquery.lightbox-0.5.js
+js/jquery.lightbox-0.5.min.js
+js/jquery.lightbox-0.5.pack.js
+js/jquery.min.js
+js/jquery.nivo.slider.js
+images/aboutme/aboutme.jpg
+images/background/city.png
+images/background/pooltable.png
+images/logo/antivirus.png
+images/postimg/1.jpg
+images/postimg/2.jpg
+images/postimg/3.jpg
+images/postimg/4.jpg
+images/readmore/xiaomicover.jpg
+images/slider/01.jpg
+images/slider/02.jpg
+images/slider/03.jpg
+images/slider/04.jpg
+images/sociallogo/facebook.png
+images/sociallogo/twitter.png
+images/sociallogo/whatsapp.png
+images/sociallogo/youtube.png
+https://fonts.googleapis.com/css?family=Bubblegum+Sans
+
+#Require the user to be online
+NETWORK:
+login.php
+
+
+FALLBACK:
+offline.html
